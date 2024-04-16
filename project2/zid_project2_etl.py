@@ -9,15 +9,11 @@
 # Note: please keep the aliases consistent throughout the project.
 #       For details, review the import statements in zid_project2_main.py
 
-from project2 import config as cfg
 from project2 import util
 
 
 # We've imported other needed scripts and defined aliases. Please keep using the same aliases for them in this project.
-import zid_project2_etl as etl
-import zid_project2_characteristics as cha
-import zid_project2_portfolio as pf
-import numpy as np
+
 import pandas as pd
 
 

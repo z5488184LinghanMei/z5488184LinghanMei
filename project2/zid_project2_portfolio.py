@@ -7,11 +7,9 @@
 #         zid_project2_portfolio.py to answer the questions in Part 7
 # ------------------------------------------------------------------------------------------------------------------
 
-import zid_project2_etl as etl
-import zid_project2_characteristics as cha
 import pandas as pd
 import numpy as np
-import util
+from project2 import util
 import sys
 
 

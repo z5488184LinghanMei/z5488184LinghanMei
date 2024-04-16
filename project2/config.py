@@ -7,9 +7,8 @@ Configuration options for the project2 package
 
 import os
 import toolkit_config as tcfg
-from project2 import util
 
-ROOTDIR = os.path.join(tcfg.PRJDIR, 'project2')
+ROOTDIR = os.path.join(tcfg.PRJDIR, '/Users/linghan/PycharmProjects/toolkit/project2')
 DATADIR = os.path.join(ROOTDIR, 'data')
 # FF_CSV = os.path.join(DATADIR, 'ff_daily.csv')
 

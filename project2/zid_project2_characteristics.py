@@ -9,20 +9,13 @@
 # Note: please keep the aliases consistent throughout the project.
 #       For details, review the import statements in zid_project2_main.py
 
-
-from project2 import config as cfg
 from project2 import util
-import json
+import sys
 
-import zid_project2_characteristics as cha
-import zid_project2_portfolio as pf
-import zid_project2_etl as etl
 
 import pandas as pd
 import numpy as np
-import os
-import datetime as dt
-from toolkit_config import PRJDIR
+
 
 
 # ----------------------------------------------------------------------------------------

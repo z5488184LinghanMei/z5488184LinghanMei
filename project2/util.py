@@ -1,9 +1,7 @@
 import os
-import config as cfg
+from project2 import config as cfg
 import pandas as pd
 
-import sys
-print(sys.path)
 
 # This is an auxiliary function, please do not modify
 COLOR_CODE = {
